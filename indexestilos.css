@@ -1,0 +1,38 @@
+body{
+	background: #f7f3e9;
+}
+
+h1{
+	background:#1597bb;
+	color: #fff;
+	text-align: center;
+}
+
+.primer{
+	background: #1597bb;
+	color: #fff;
+	padding: 5px;
+	display: flex;
+	justify-content: flex-end;
+}
+h2{
+	background: #150e56;
+	color:#fff;
+	text-align: center;
+	text-decoration: all;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+.padre {
+	background:#8fd6e1;
+	padding: 10px;
+}
+
+footer{
+	background: #7b113a;
+	color:gray;
+	text-align: center;
+	margin-top: 25px;
+	padding: 5px;
+}
